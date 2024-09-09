@@ -1,0 +1,136 @@
+{
+  "reviews": [
+    {
+      "professor": "Dr. Alice Smith",
+      "subject": "Data Structures",
+      "stars": 4,
+      "review": "Dr. Smith explains concepts clearly and provides great examples. Could use more hands-on exercises."
+    },
+    {
+      "professor": "Dr. Alice Smith",
+      "subject": "Data Structures",
+      "stars": 3,
+      "review": "Good knowledge but lectures are sometimes too fast. More review sessions would help."
+    },
+    {
+      "professor": "Dr. John Doe",
+      "subject": "Calculus I",
+      "stars": 5,
+      "review": "Exceptional instructor. Very engaging and makes complex topics easy to understand."
+    },
+    {
+      "professor": "Dr. John Doe",
+      "subject": "Calculus I",
+      "stars": 4,
+      "review": "Great teacher, but office hours are always crowded. Still, his explanations are very helpful."
+    },
+    {
+      "professor": "Dr. Emily Johnson",
+      "subject": "World History",
+      "stars": 4,
+      "review": "Dr. Johnson has a lot of knowledge and presents information well, though lectures can be lengthy."
+    },
+    {
+      "professor": "Dr. Emily Johnson",
+      "subject": "World History",
+      "stars": 3,
+      "review": "Interesting material but sometimes the pace is too slow. More interactive activities would be beneficial."
+    },
+    {
+      "professor": "Dr. Michael Brown",
+      "subject": "Introduction to Psychology",
+      "stars": 5,
+      "review": "Very passionate and knowledgeable. Makes the subject come alive with real-world examples."
+    },
+    {
+      "professor": "Dr. Michael Brown",
+      "subject": "Introduction to Psychology",
+      "stars": 4,
+      "review": "Engaging and informative, but the exams were a bit challenging. Overall, a great professor."
+    },
+    {
+      "professor": "Dr. Sarah Lee",
+      "subject": "Organic Chemistry",
+      "stars": 2,
+      "review": "Struggled with the teaching style. The material was difficult to follow and lacked practical examples."
+    },
+    {
+      "professor": "Dr. Sarah Lee",
+      "subject": "Organic Chemistry",
+      "stars": 3,
+      "review": "Knowledgeable but the class was too theoretical. More practical applications would have been helpful."
+    },
+    {
+      "professor": "Dr. David Kim",
+      "subject": "Physics I",
+      "stars": 5,
+      "review": "Fantastic teacher. Very clear explanations and always willing to help outside of class."
+    },
+    {
+      "professor": "Dr. David Kim",
+      "subject": "Physics I",
+      "stars": 4,
+      "review": "Great professor with a deep understanding of the subject. Lectures are well-structured and informative."
+    },
+    {
+      "professor": "Dr. Laura Green",
+      "subject": "Modern Literature",
+      "stars": 4,
+      "review": "Dr. Green's classes are thought-provoking and engaging. She encourages discussion and critical thinking."
+    },
+    {
+      "professor": "Dr. Laura Green",
+      "subject": "Modern Literature",
+      "stars": 5,
+      "review": "Incredible professor with a genuine passion for literature. Classes are always stimulating and interactive."
+    },
+    {
+      "professor": "Dr. Richard Adams",
+      "subject": "Statistics",
+      "stars": 3,
+      "review": "Good professor but the material is difficult to grasp. More practical examples would be useful."
+    },
+    {
+      "professor": "Dr. Richard Adams",
+      "subject": "Statistics",
+      "stars": 2,
+      "review": "The course was poorly organized and the professor's explanations were often confusing."
+    },
+    {
+      "professor": "Dr. Karen White",
+      "subject": "Economics",
+      "stars": 4,
+      "review": "Very knowledgeable and provides clear explanations. The workload is manageable, and feedback is constructive."
+    },
+    {
+      "professor": "Dr. Karen White",
+      "subject": "Economics",
+      "stars": 5,
+      "review": "Exceptional teaching skills and a deep understanding of economics. The class was engaging and informative."
+    },
+    {
+      "professor": "Dr. Brian Taylor",
+      "subject": "Environmental Science",
+      "stars": 4,
+      "review": "Dr. Taylor is passionate about the subject and provides a lot of useful insights. The course is very engaging."
+    },
+    {
+      "professor": "Dr. Brian Taylor",
+      "subject": "Environmental Science",
+      "stars": 3,
+      "review": "Interesting subject but the course materials were sometimes outdated. More recent case studies would help."
+    },
+    {
+      "professor": "Dr. Michelle Wilson",
+      "subject": "Philosophy",
+      "stars": 5,
+      "review": "Dr. Wilson is an outstanding professor with a profound understanding of philosophical concepts. Highly recommended."
+    },
+    {
+      "professor": "Dr. Michelle Wilson",
+      "subject": "Philosophy",
+      "stars": 4,
+      "review": "Great class with deep discussions and thought-provoking material. Sometimes the pace is a bit slow."
+    }
+  ]
+}
